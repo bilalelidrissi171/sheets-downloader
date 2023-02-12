@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This program is used to fetch data from a Google Sheet, Excel or CSV File.
+This program is used to fetch data from a Google Sheet, Excel or CSV File and download it using Links
 
 ## Dependencies
 
