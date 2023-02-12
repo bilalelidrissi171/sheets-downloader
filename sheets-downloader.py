@@ -1,7 +1,7 @@
 # Author: Bilal El Idrissi
 # Github: https://github.com/bilalelidrissi171
 # Linkedin: https://www.linkedin.com/in/bilalelidrissi171/
-# Description: Download files from Google Sheets, Excel and CVS files
+# Description: Fetch and Download files from Google Sheets, Excel or CVS files
 
 import os
 import google.auth
