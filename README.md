@@ -15,6 +15,7 @@ Before you run this program, you need to install the following:
 
 - Python
 - pip
+
 You also need to install the following libraries using pip:
 
 - os-sys
